@@ -1,0 +1,41 @@
+_repo: In-Our-First-Year-of-the-War--13-Messages-and-Addresses-to-the-Congress-and-the-People-March-__24668
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Evans, Wilfrid Muir
+    gutenberg_agent_id: '26659'
+    url: http://www.gutenberg.org/2009/agents/26659
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wilson, Woodrow
+    aliases:
+    - Wilson, T. W. (Thomas Woodrow)
+    - Wilson, Thomas Woodrow
+    - United States President (1913-1921)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '1689'
+    url: http://www.gutenberg.org/2009/agents/1689
+    wikipedia: http://en.wikipedia.org/wiki/Woodrow_Wilson
+description: ''
+gutenberg_issued: '2008-02-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24668'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- United States'
+- !lcsh 'United States -- Politics and government -- 1913-1921'
+- !lcsh 'Speeches, addresses, etc., American'
+- !lcc 'E740'
+- !lcc 'D501'
+- !lcsh 'United States. Congress'
+title: "In Our First Year of the War\r\nMessages and Addresses to the Congress and\
+  \ the People, March 5, 1917 to January 6, 1918"
+url: http://www.gutenberg.org/ebooks/24668
