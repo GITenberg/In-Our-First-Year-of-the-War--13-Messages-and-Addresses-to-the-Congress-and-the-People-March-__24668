@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1689
     wikipedia: http://en.wikipedia.org/wiki/Woodrow_Wilson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24668#In-Our-First-Year-of-the-War--13-Messages-and-Addresses-to-the-Congress-and-the-People-March-_
 gutenberg_issued: '2008-02-22'
 gutenberg_type: Text
 identifiers:
